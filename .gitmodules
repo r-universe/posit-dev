@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "shinychat"]
-	path = shinychat
-	url = https://github.com/posit-dev/shinychat
 [submodule "shinylive"]
 	path = shinylive
 	url = https://github.com/posit-dev/r-shinylive
