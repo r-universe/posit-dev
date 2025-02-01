@@ -5,6 +5,9 @@
 [submodule "connectapi"]
 	path = connectapi
 	url = https://github.com/posit-dev/connectapi
+[submodule "connectcreds"]
+	path = connectcreds
+	url = https://github.com/posit-dev/connectcreds
 [submodule "shinylive"]
 	path = shinylive
 	url = https://github.com/posit-dev/r-shinylive
