@@ -8,6 +8,9 @@
 [submodule "connectcreds"]
 	path = connectcreds
 	url = https://github.com/posit-dev/connectcreds
+[submodule "shinychat"]
+	path = shinychat
+	url = https://github.com/posit-dev/shinychat
 [submodule "shinylive"]
 	path = shinylive
 	url = https://github.com/posit-dev/r-shinylive
