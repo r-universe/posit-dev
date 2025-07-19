@@ -8,6 +8,9 @@
 [submodule "connectcreds"]
 	path = connectcreds
 	url = https://github.com/posit-dev/connectcreds
+[submodule "mcptools"]
+	path = mcptools
+	url = https://github.com/posit-dev/mcptools
 [submodule "shinylive"]
 	path = shinylive
 	url = https://github.com/posit-dev/r-shinylive
