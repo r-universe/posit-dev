@@ -11,12 +11,36 @@
 [submodule "connectcreds"]
 	path = connectcreds
 	url = https://github.com/posit-dev/connectcreds
+[submodule "fiery"]
+	path = fiery
+	url = https://github.com/thomasp85/fiery
+	registered = false
+[submodule "firesafety"]
+	path = firesafety
+	url = https://github.com/thomasp85/firesafety
+	registered = false
+[submodule "firesale"]
+	path = firesale
+	url = https://github.com/thomasp85/firesale
+	registered = false
+[submodule "firestorm"]
+	path = firestorm
+	url = https://github.com/thomasp85/firestorm
+	registered = false
 [submodule "mcptools"]
 	path = mcptools
 	url = https://github.com/posit-dev/mcptools
 [submodule "plumber2"]
 	path = plumber2
 	url = https://github.com/posit-dev/plumber2
+[submodule "reqres"]
+	path = reqres
+	url = https://github.com/thomasp85/reqres
+	registered = false
+[submodule "routr"]
+	path = routr
+	url = https://github.com/thomasp85/routr
+	registered = false
 [submodule "shinychat"]
 	path = shinychat
 	url = https://github.com/posit-dev/shinychat
