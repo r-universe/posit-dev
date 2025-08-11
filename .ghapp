@@ -1,0 +1,10 @@
+{
+  "id": 80420717,
+  "created_at": "2025-08-11T17:40:33.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["py-shiny", "py-shinyswatch", "positthemes", "r-shinylive", "py-shiny-site", "posit-open-source-r-pkgs", "py-shiny-templates", "shiny-bindings", "py-shiny-output-binding-example", "py-shiny-validate", "brand-yml", "posit-conf-survey", "shiny-assistant", "shiny-contest-2024", "shinychat", "openapi-mcp", "btw", "plumber2", "querychat", "shiny-shorts", "app-contributors", "pycon2025", "ai-intro-posit", "shinyrealtime", "posit-dev.r-universe.dev"]
+}
