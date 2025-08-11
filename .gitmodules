@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/posit-dev/posit-dev.r-universe.dev
 	branch = HEAD
+[submodule "btw"]
+	path = btw
+	url = https://github.com/posit-dev/btw
 [submodule "connectapi"]
 	path = connectapi
 	url = https://github.com/posit-dev/connectapi
@@ -11,6 +14,13 @@
 [submodule "mcptools"]
 	path = mcptools
 	url = https://github.com/posit-dev/mcptools
+[submodule "plumber2"]
+	path = plumber2
+	url = https://github.com/posit-dev/plumber2
+[submodule "shinychat"]
+	path = shinychat
+	url = https://github.com/posit-dev/shinychat
+	subdir = pkg-r
 [submodule "shinylive"]
 	path = shinylive
 	url = https://github.com/posit-dev/r-shinylive
