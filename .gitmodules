@@ -33,6 +33,10 @@
 [submodule "plumber2"]
 	path = plumber2
 	url = https://github.com/posit-dev/plumber2
+[submodule "querychat"]
+	path = querychat
+	url = https://github.com/posit-dev/querychat
+	subdir = pkg-r
 [submodule "reqres"]
 	path = reqres
 	url = https://github.com/thomasp85/reqres
