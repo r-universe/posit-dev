@@ -52,6 +52,10 @@
 [submodule "shinylive"]
 	path = shinylive
 	url = https://github.com/posit-dev/r-shinylive
+[submodule "shinymedia"]
+	path = shinymedia
+	url = https://github.com/posit-dev/shinymedia
+	subdir = pkg-r
 [submodule "snowflakeauth"]
 	path = snowflakeauth
 	url = https://github.com/posit-dev/snowflakeauth
