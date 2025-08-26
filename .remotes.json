@@ -1,11 +1,5 @@
 [
   {
-    "package": "fiery",
-    "url": "https://github.com/thomasp85/fiery",
-    "via": ["plumber2"],
-    "from": "plumber2"
-  },
-  {
     "package": "firesafety",
     "url": "https://github.com/thomasp85/firesafety",
     "via": ["plumber2"],
@@ -20,18 +14,6 @@
   {
     "package": "firestorm",
     "url": "https://github.com/thomasp85/firestorm",
-    "via": ["plumber2"],
-    "from": "plumber2"
-  },
-  {
-    "package": "reqres",
-    "url": "https://github.com/thomasp85/reqres",
-    "via": ["plumber2", "fiery"],
-    "from": "plumber2"
-  },
-  {
-    "package": "routr",
-    "url": "https://github.com/thomasp85/routr",
     "via": ["plumber2"],
     "from": "plumber2"
   },

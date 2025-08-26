@@ -11,10 +11,6 @@
 [submodule "connectcreds"]
 	path = connectcreds
 	url = https://github.com/posit-dev/connectcreds
-[submodule "fiery"]
-	path = fiery
-	url = https://github.com/thomasp85/fiery
-	registered = false
 [submodule "firesafety"]
 	path = firesafety
 	url = https://github.com/thomasp85/firesafety
@@ -37,14 +33,6 @@
 	path = querychat
 	url = https://github.com/posit-dev/querychat
 	subdir = pkg-r
-[submodule "reqres"]
-	path = reqres
-	url = https://github.com/thomasp85/reqres
-	registered = false
-[submodule "routr"]
-	path = routr
-	url = https://github.com/thomasp85/routr
-	registered = false
 [submodule "shinychat"]
 	path = shinychat
 	url = https://github.com/posit-dev/shinychat
