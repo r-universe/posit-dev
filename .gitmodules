@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/posit-dev/posit-dev.r-universe.dev
 	branch = HEAD
+[submodule "brand.yml"]
+	path = brand.yml
+	url = https://github.com/posit-dev/brand-yml
+	subdir = pkg-r
 [submodule "btw"]
 	path = btw
 	url = https://github.com/posit-dev/btw
