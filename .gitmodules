@@ -19,14 +19,6 @@
 	path = firesafety
 	url = https://github.com/thomasp85/firesafety
 	registered = false
-[submodule "firesale"]
-	path = firesale
-	url = https://github.com/thomasp85/firesale
-	registered = false
-[submodule "firestorm"]
-	path = firestorm
-	url = https://github.com/thomasp85/firestorm
-	registered = false
 [submodule "mcptools"]
 	path = mcptools
 	url = https://github.com/posit-dev/mcptools

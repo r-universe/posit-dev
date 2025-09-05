@@ -6,18 +6,6 @@
     "from": "plumber2"
   },
   {
-    "package": "firesale",
-    "url": "https://github.com/thomasp85/firesale",
-    "via": ["plumber2"],
-    "from": "plumber2"
-  },
-  {
-    "package": "firestorm",
-    "url": "https://github.com/thomasp85/firestorm",
-    "via": ["plumber2"],
-    "from": "plumber2"
-  },
-  {
     "package": "shinychat",
     "url": "https://github.com/posit-dev/shinychat",
     "via": ["querychat"],
