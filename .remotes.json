@@ -1,11 +1,5 @@
 [
   {
-    "package": "firesafety",
-    "url": "https://github.com/thomasp85/firesafety",
-    "via": ["plumber2"],
-    "from": "plumber2"
-  },
-  {
     "package": "shinychat",
     "url": "https://github.com/posit-dev/shinychat",
     "via": ["querychat"],

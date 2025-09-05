@@ -15,10 +15,6 @@
 [submodule "connectcreds"]
 	path = connectcreds
 	url = https://github.com/posit-dev/connectcreds
-[submodule "firesafety"]
-	path = firesafety
-	url = https://github.com/thomasp85/firesafety
-	registered = false
 [submodule "mcptools"]
 	path = mcptools
 	url = https://github.com/posit-dev/mcptools
