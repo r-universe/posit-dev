@@ -1,5 +1,11 @@
 [
   {
+    "package": "routr",
+    "url": "https://github.com/thomasp85/routr",
+    "via": ["plumber2"],
+    "from": "plumber2"
+  },
+  {
     "package": "shinychat",
     "url": "https://github.com/posit-dev/shinychat",
     "via": ["querychat"],

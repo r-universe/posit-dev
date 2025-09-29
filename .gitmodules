@@ -25,6 +25,10 @@
 	path = querychat
 	url = https://github.com/posit-dev/querychat
 	subdir = pkg-r
+[submodule "routr"]
+	path = routr
+	url = https://github.com/thomasp85/routr
+	registered = false
 [submodule "shinychat"]
 	path = shinychat
 	url = https://github.com/posit-dev/shinychat
