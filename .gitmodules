@@ -21,6 +21,10 @@
 [submodule "plumber2"]
 	path = plumber2
 	url = https://github.com/posit-dev/plumber2
+[submodule "promises"]
+	path = promises
+	url = https://github.com/rstudio/promises
+	registered = false
 [submodule "querychat"]
 	path = querychat
 	url = https://github.com/posit-dev/querychat

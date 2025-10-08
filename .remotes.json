@@ -1,5 +1,11 @@
 [
   {
+    "package": "promises",
+    "url": "https://github.com/rstudio/promises",
+    "via": ["plumber2", "routr"],
+    "from": "plumber2"
+  },
+  {
     "package": "routr",
     "url": "https://github.com/thomasp85/routr",
     "via": ["plumber2"],
