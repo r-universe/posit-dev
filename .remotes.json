@@ -1,8 +1,20 @@
 [
   {
+    "package": "fiery",
+    "url": "https://github.com/thomasp85/fiery",
+    "via": ["plumber2"],
+    "from": "plumber2"
+  },
+  {
     "package": "promises",
     "url": "https://github.com/rstudio/promises",
     "via": ["plumber2", "routr"],
+    "from": "plumber2"
+  },
+  {
+    "package": "reqres",
+    "url": "https://github.com/thomasp85/reqres",
+    "via": ["plumber2", "fiery"],
     "from": "plumber2"
   },
   {
