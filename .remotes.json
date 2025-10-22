@@ -6,6 +6,12 @@
     "from": "plumber2"
   },
   {
+    "package": "fireproof",
+    "url": "https://github.com/thomasp85/fireproof",
+    "via": ["plumber2"],
+    "from": "plumber2"
+  },
+  {
     "package": "promises",
     "url": "https://github.com/rstudio/promises",
     "via": ["plumber2", "routr"],
