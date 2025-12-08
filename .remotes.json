@@ -12,9 +12,15 @@
     "from": "plumber2"
   },
   {
+    "package": "firesale",
+    "url": "https://github.com/thomasp85/firesale",
+    "via": ["plumber2", "fireproof"],
+    "from": "plumber2"
+  },
+  {
     "package": "reqres",
     "url": "https://github.com/thomasp85/reqres",
-    "via": ["plumber2", "fireproof"],
+    "via": ["plumber2", "routr"],
     "from": "plumber2"
   },
   {
@@ -29,5 +35,11 @@
     "via": ["querychat"],
     "subdir": "pkg-r",
     "from": "querychat"
+  },
+  {
+    "package": "waysign",
+    "url": "https://github.com/thomasp85/waysign",
+    "via": ["plumber2", "routr"],
+    "from": "plumber2"
   }
 ]

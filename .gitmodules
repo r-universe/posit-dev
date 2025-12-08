@@ -23,6 +23,10 @@
 	path = fireproof
 	url = https://github.com/thomasp85/fireproof
 	registered = false
+[submodule "firesale"]
+	path = firesale
+	url = https://github.com/thomasp85/firesale
+	registered = false
 [submodule "mcptools"]
 	path = mcptools
 	url = https://github.com/posit-dev/mcptools
@@ -55,3 +59,7 @@
 [submodule "snowflakeauth"]
 	path = snowflakeauth
 	url = https://github.com/posit-dev/snowflakeauth
+[submodule "waysign"]
+	path = waysign
+	url = https://github.com/thomasp85/waysign
+	registered = false
