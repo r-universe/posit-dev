@@ -55,7 +55,3 @@
 [submodule "snowflakeauth"]
 	path = snowflakeauth
 	url = https://github.com/posit-dev/snowflakeauth
-[submodule "waysign"]
-	path = waysign
-	url = https://github.com/thomasp85/waysign
-	registered = false
