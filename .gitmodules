@@ -19,10 +19,6 @@
 	path = fiery
 	url = https://github.com/thomasp85/fiery
 	registered = false
-[submodule "fireproof"]
-	path = fireproof
-	url = https://github.com/thomasp85/fireproof
-	registered = false
 [submodule "mcptools"]
 	path = mcptools
 	url = https://github.com/posit-dev/mcptools
@@ -36,10 +32,6 @@
 [submodule "reqres"]
 	path = reqres
 	url = https://github.com/thomasp85/reqres
-	registered = false
-[submodule "routr"]
-	path = routr
-	url = https://github.com/thomasp85/routr
 	registered = false
 [submodule "shinychat"]
 	path = shinychat
