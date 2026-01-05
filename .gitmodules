@@ -29,10 +29,6 @@
 	path = querychat
 	url = https://github.com/posit-dev/querychat
 	subdir = pkg-r
-[submodule "reqres"]
-	path = reqres
-	url = https://github.com/thomasp85/reqres
-	registered = false
 [submodule "shinychat"]
 	path = shinychat
 	url = https://github.com/posit-dev/shinychat
