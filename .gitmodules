@@ -19,6 +19,9 @@
 	path = fiery
 	url = https://github.com/thomasp85/fiery
 	registered = false
+[submodule "frontmatter"]
+	path = frontmatter
+	url = https://github.com/posit-dev/frontmatter
 [submodule "mcptools"]
 	path = mcptools
 	url = https://github.com/posit-dev/mcptools
@@ -43,3 +46,6 @@
 [submodule "snowflakeauth"]
 	path = snowflakeauth
 	url = https://github.com/posit-dev/snowflakeauth
+[submodule "yaml12"]
+	path = yaml12
+	url = https://github.com/posit-dev/r-yaml12
