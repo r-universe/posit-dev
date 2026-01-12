@@ -4,12 +4,5 @@
     "url": "https://github.com/thomasp85/fiery",
     "via": ["plumber2"],
     "from": "plumber2"
-  },
-  {
-    "package": "shinychat",
-    "url": "https://github.com/posit-dev/shinychat",
-    "via": ["querychat"],
-    "subdir": "pkg-r",
-    "from": "querychat"
   }
 ]
