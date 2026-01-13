@@ -15,10 +15,6 @@
 [submodule "connectcreds"]
 	path = connectcreds
 	url = https://github.com/posit-dev/connectcreds
-[submodule "fiery"]
-	path = fiery
-	url = https://github.com/thomasp85/fiery
-	registered = false
 [submodule "frontmatter"]
 	path = frontmatter
 	url = https://github.com/posit-dev/frontmatter
