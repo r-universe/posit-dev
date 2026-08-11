@@ -18,8 +18,8 @@
 [submodule "frontmatter"]
 	path = frontmatter
 	url = https://github.com/posit-dev/frontmatter
-[submodule "ggqsl"]
-	path = ggqsl
+[submodule "ggsql"]
+	path = ggsql
 	url = https://github.com/posit-dev/ggsql-r
 [submodule "mcptools"]
 	path = mcptools
