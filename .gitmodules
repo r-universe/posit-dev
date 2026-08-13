@@ -9,6 +9,9 @@
 [submodule "btw"]
 	path = btw
 	url = https://github.com/posit-dev/btw
+[submodule "commons"]
+	path = commons
+	url = https://github.com/posit-dev/commons
 [submodule "connectapi"]
 	path = connectapi
 	url = https://github.com/posit-dev/connectapi
