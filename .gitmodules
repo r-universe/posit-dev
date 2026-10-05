@@ -12,6 +12,7 @@
 [submodule "commons"]
 	path = commons
 	url = https://github.com/posit-dev/commons
+	subdir = pkg-r
 [submodule "connectapi"]
 	path = connectapi
 	url = https://github.com/posit-dev/connectapi
