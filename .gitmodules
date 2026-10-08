@@ -28,6 +28,9 @@
 [submodule "mcptools"]
 	path = mcptools
 	url = https://github.com/posit-dev/mcptools
+[submodule "paparazzi"]
+	path = paparazzi
+	url = https://github.com/posit-dev/paparazzi
 [submodule "plumber2"]
 	path = plumber2
 	url = https://github.com/posit-dev/plumber2
